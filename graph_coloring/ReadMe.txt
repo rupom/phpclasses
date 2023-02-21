@@ -57,9 +57,9 @@ Moderator, phpResource Group
 http://groups.yahoo.com/group/phpresource/
 
 CEO, OS CLiCKS
-http://www.osclicks.com
+https://www.osclicks.com
 
-My Blog : http://rupom.wordpress.com
+My Blog : https://rupom.wordpress.com
 Emails:
 rupom@osclicks.com
 rupom.bd@gmail.com
